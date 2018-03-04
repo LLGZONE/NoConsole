@@ -1,0 +1,2 @@
+# NoConsole
+webpack plugin
