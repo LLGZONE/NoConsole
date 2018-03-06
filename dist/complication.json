@@ -1,0 +1,486 @@
+[
+  {
+    "dependencies": [],
+    "blocks": [],
+    "variables": [],
+    "context": "C:\\Users\\LLGZONE\\Desktop\\github\\WebpackPlugin",
+    "reasons": [],
+    "debugId": 1000,
+    "id": 0,
+    "portableId": "index.js",
+    "index": 0,
+    "index2": 0,
+    "depth": 0,
+    "used": true,
+    "usedExports": true,
+    "providedExports": true,
+    "_chunks": {},
+    "warnings": [],
+    "dependenciesWarnings": [],
+    "errors": [],
+    "dependenciesErrors": [],
+    "strict": false,
+    "meta": {},
+    "optimizationBailout": [],
+    "request": "C:\\Users\\LLGZONE\\Desktop\\github\\WebpackPlugin\\index.js",
+    "userRequest": "C:\\Users\\LLGZONE\\Desktop\\github\\WebpackPlugin\\index.js",
+    "rawRequest": "./index.js",
+    "parser": {
+      "_plugins": {
+        "evaluate Literal": [
+          null
+        ],
+        "evaluate LogicalExpression": [
+          null
+        ],
+        "evaluate BinaryExpression": [
+          null
+        ],
+        "evaluate UnaryExpression": [
+          null
+        ],
+        "evaluate typeof undefined": [
+          null
+        ],
+        "evaluate Identifier": [
+          null
+        ],
+        "evaluate ThisExpression": [
+          null
+        ],
+        "evaluate MemberExpression": [
+          null
+        ],
+        "evaluate CallExpression": [
+          null
+        ],
+        "evaluate CallExpression .replace": [
+          null
+        ],
+        "evaluate CallExpression .substr": [
+          null
+        ],
+        "evaluate CallExpression .substring": [
+          null
+        ],
+        "evaluate TemplateLiteral": [
+          null
+        ],
+        "evaluate TaggedTemplateExpression": [
+          null
+        ],
+        "evaluate CallExpression .concat": [
+          null
+        ],
+        "evaluate CallExpression .split": [
+          null
+        ],
+        "evaluate ConditionalExpression": [
+          null
+        ],
+        "evaluate ArrayExpression": [
+          null
+        ],
+        "expression global": [
+          null
+        ],
+        "expression process": [
+          null
+        ],
+        "expression Buffer": [
+          null
+        ],
+        "expression setImmediate": [
+          null
+        ],
+        "expression clearImmediate": [
+          null
+        ],
+        "call require": [
+          null,
+          null,
+          null
+        ],
+        "program": [
+          null,
+          null
+        ],
+        "evaluate typeof define": [
+          null,
+          null
+        ],
+        "typeof define": [
+          null,
+          null
+        ],
+        "evaluate define": [
+          null
+        ],
+        "expression define": [
+          null,
+          null
+        ],
+        "call define": [
+          null,
+          null
+        ],
+        "evaluate typeof exports": [
+          null,
+          null
+        ],
+        "typeof exports": [
+          null
+        ],
+        "evaluate exports": [
+          null
+        ],
+        "expression exports": [
+          null
+        ],
+        "call exports": [
+          null
+        ],
+        "import": [
+          null
+        ],
+        "import specifier": [
+          null
+        ],
+        "expression imported var": [
+          null
+        ],
+        "expression imported var.*": [
+          null
+        ],
+        "call imported var": [
+          null
+        ],
+        "hot accept callback": [
+          null
+        ],
+        "hot accept without callback": [
+          null
+        ],
+        "export": [
+          null
+        ],
+        "export import": [
+          null
+        ],
+        "export expression": [
+          null
+        ],
+        "export declaration": [
+          null
+        ],
+        "export specifier": [
+          null
+        ],
+        "export import specifier": [
+          null
+        ],
+        "call require:amd:array": [
+          null
+        ],
+        "call require:amd:item": [
+          null
+        ],
+        "call require:amd:context": [
+          null
+        ],
+        "call define:amd:array": [
+          null
+        ],
+        "call define:amd:item": [
+          null
+        ],
+        "call define:amd:context": [
+          null
+        ],
+        "expression require.amd": [
+          null
+        ],
+        "expression define.amd": [
+          null
+        ],
+        "expression __webpack_amd_options__": [
+          null
+        ],
+        "evaluate typeof define.amd": [
+          null
+        ],
+        "evaluate typeof require.amd": [
+          null
+        ],
+        "evaluate Identifier define.amd": [
+          null
+        ],
+        "evaluate Identifier require.amd": [
+          null
+        ],
+        "can-rename define": [
+          null
+        ],
+        "rename define": [
+          null
+        ],
+        "typeof require": [
+          null,
+          null
+        ],
+        "evaluate typeof require": [
+          null,
+          null
+        ],
+        "evaluate Identifier require": [
+          null
+        ],
+        "typeof require.resolve": [
+          null
+        ],
+        "evaluate typeof require.resolve": [
+          null
+        ],
+        "evaluate Identifier require.resolve": [
+          null
+        ],
+        "typeof require.resolveWeak": [
+          null
+        ],
+        "evaluate typeof require.resolveWeak": [
+          null
+        ],
+        "evaluate Identifier require.resolveWeak": [
+          null
+        ],
+        "evaluate typeof module": [
+          null
+        ],
+        "assign require": [
+          null
+        ],
+        "can-rename require": [
+          null
+        ],
+        "rename require": [
+          null
+        ],
+        "typeof module": [
+          null
+        ],
+        "expression require.cache": [
+          null
+        ],
+        "expression require": [
+          null
+        ],
+        "call require:commonjs:item": [
+          null
+        ],
+        "call require:commonjs:context": [
+          null
+        ],
+        "call require.resolve": [
+          null
+        ],
+        "call require.resolveWeak": [
+          null
+        ],
+        "call require.resolve(Weak)": [
+          null
+        ],
+        "call require.resolve(Weak):item": [
+          null
+        ],
+        "call require.resolve(Weak):context": [
+          null
+        ],
+        "expression __filename": [
+          null
+        ],
+        "evaluate Identifier __filename": [
+          null
+        ],
+        "expression __dirname": [
+          null
+        ],
+        "evaluate Identifier __dirname": [
+          null
+        ],
+        "expression require.main": [
+          null
+        ],
+        "expression require.extensions": [
+          null
+        ],
+        "expression module.loaded": [
+          null
+        ],
+        "expression module.id": [
+          null
+        ],
+        "expression module.exports": [
+          null
+        ],
+        "evaluate Identifier module.hot": [
+          null
+        ],
+        "expression module": [
+          null
+        ],
+        "call require.config": [
+          null
+        ],
+        "call requirejs.config": [
+          null
+        ],
+        "expression require.version": [
+          null
+        ],
+        "expression requirejs.onError": [
+          null
+        ],
+        "expression __webpack_require__": [
+          null
+        ],
+        "evaluate typeof __webpack_require__": [
+          null
+        ],
+        "expression __webpack_public_path__": [
+          null
+        ],
+        "evaluate typeof __webpack_public_path__": [
+          null
+        ],
+        "expression __webpack_modules__": [
+          null
+        ],
+        "evaluate typeof __webpack_modules__": [
+          null
+        ],
+        "expression __webpack_chunk_load__": [
+          null
+        ],
+        "evaluate typeof __webpack_chunk_load__": [
+          null
+        ],
+        "expression __non_webpack_require__": [
+          null
+        ],
+        "evaluate typeof __non_webpack_require__": [
+          null
+        ],
+        "expression __webpack_nonce__": [
+          null
+        ],
+        "evaluate typeof __webpack_nonce__": [
+          null
+        ],
+        "expression require.onError": [
+          null
+        ],
+        "evaluate typeof require.onError": [
+          null
+        ],
+        "statement if": [
+          null
+        ],
+        "expression ?:": [
+          null
+        ],
+        "evaluate Identifier __resourceQuery": [
+          null
+        ],
+        "expression __resourceQuery": [
+          null
+        ],
+        "call require.include": [
+          null
+        ],
+        "evaluate typeof require.include": [
+          null
+        ],
+        "typeof require.include": [
+          null
+        ],
+        "call require.ensure": [
+          null
+        ],
+        "evaluate typeof require.ensure": [
+          null
+        ],
+        "typeof require.ensure": [
+          null
+        ],
+        "call require.context": [
+          null
+        ],
+        "call System.import": [
+          null
+        ],
+        "import-call": [
+          null
+        ],
+        "typeof System.import": [
+          null
+        ],
+        "evaluate typeof System.import": [
+          null
+        ],
+        "typeof System": [
+          null
+        ],
+        "evaluate typeof System": [
+          null
+        ],
+        "evaluate typeof System.set": [
+          null
+        ],
+        "expression System.set": [
+          null
+        ],
+        "evaluate typeof System.get": [
+          null
+        ],
+        "expression System.get": [
+          null
+        ],
+        "evaluate typeof System.register": [
+          null
+        ],
+        "expression System.register": [
+          null
+        ],
+        "expression System": [
+          null
+        ]
+      }
+    },
+    "resource": "C:\\Users\\LLGZONE\\Desktop\\github\\WebpackPlugin\\index.js",
+    "loaders": [],
+    "fileDependencies": [
+      "C:\\Users\\LLGZONE\\Desktop\\github\\WebpackPlugin\\index.js"
+    ],
+    "contextDependencies": [],
+    "error": null,
+    "_source": {
+      "_value": "function Hello() {\n  console.log('hello world')\n}",
+      "_name": "C:\\Users\\LLGZONE\\Desktop\\github\\WebpackPlugin\\index.js"
+    },
+    "assets": {},
+    "built": true,
+    "_cachedSource": {
+      "source": {
+        "_source": {
+          "_value": "function Hello() {\n  console.log('hello world')\n}",
+          "_name": "C:\\Users\\LLGZONE\\Desktop\\github\\WebpackPlugin\\index.js"
+        },
+        "replacements": []
+      },
+      "hash": "8d2da18ef0bcd1982633e2d7bc266eb8"
+    },
+    "issuer": null,
+    "buildTimestamp": 1520143969647,
+    "cacheable": true
+  }
+]
